@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  paylog
+
+  Created by Cooking singular wings on 2017/7/6.
+  Copyright © 2017年 Csw. All rights reserved.
+*/
+//中文
+"more"="更多";
+"item"="我的记录";
+"isget"="是否收入：";
+//
+"alipay"="支付宝";
+"tenpay"="财富通";
+"crcard"="银行卡";
+"cicard"="市民一卡通";
+"apppay"="Apple Pay";
+"cash"="现金";
+"others"="其他";
+//
+"breakfast"="早饭";
+"lunch"="午饭";
+"dinner"="晚饭";
+"traexp"="路费";
+"takeout"="外卖";
+"restaurant"="饭店";
+"inhome"="公司/学校内部";
+//
+"addnew"="增加记录";
+"editem"="编辑记录";
+"detail"="账单详情";
+//
+"title"="标 题:";
+"money"="金 额:";
+"time"="时 间:";
+"type"="类 型:";
+"remark"="备 注:";
+"ttitle"="标题";
+"ttype"="类型";
+"titlrk"="(标题备注)";
+"morerk"="备注...";
+//
+"input1"="请输入标题";
+"input2"="请输入金额";
+"input3"="请输入时间";
+"input4"="选择或输入";
+"input5"="可选";
+//
+"refreshenter"="下拉可以刷新";
+"refreshdown"="松开立即刷新";
+"refreshup"="正在刷新...";
+//
+"now"="现在";
+"today"="今天";
+"yesterday"="昨天";
+"2daysago"="前天";
+"3daysago"="三天前";
+"4daysago"="四天前";
+"5daysago"="五天前";
+"6daysago"="六天前";
+"7daysago"="上星期";
+"1mago"="一个月前";
+"llago"="很久以前";
+//
+"D"="天";
+"H"="小时";
+"m"="分";//Minutes
+"s"="秒";//second
+"ago"="前";
+//
+"noname"="未命名";

@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  paylog
+
+  Created by Cooking singular wings on 2017/7/6.
+  Copyright © 2017年 Csw. All rights reserved.
+*/
+//English
+"more"="more";
+"item"="My List";
+"isget"="Is income:   ";
+//
+"alipay"="Alipay";
+"tenpay"="Tenpay";
+"crcard"="Creadit Card";
+"cicard"="Citizen Card";
+"apppay"="Apple Pay";
+"cash"="Cash";
+"others"="Others";
+//
+"breakfast"="Breakfast";
+"lunch"="Lunch";
+"dinner"="Dinner";
+"traexp"="Travelling expenses";
+"takeout"="Take-out";
+"restaurant"="Restaurant";
+"inhome"="In-house";
+//
+"addnew"="Add New Item";
+"editem"="Edit This Item";
+"detail"="Detail of Item";
+//
+"title"="Title   :";
+"money"="Money :";
+"time"="Time   :";
+"type"="Type   :";
+"remark"="remark:";
+"ttitle"="Title";
+"ttype"="Type";
+"titlrk"="Remarks of title";
+"morerk"="Remarks...";
+//
+"input1"="Friendly name for this item";
+"input2"="Amount of money";
+"input3"="Time";
+"input4"="Select or enter";
+"input5"="Null";
+//
+"refreshenter"="Pull down to refresh";
+"refreshdown"="Please release";
+"refreshup"="Refreshing...";
+//
+"now"="Now";
+"today"="Today";
+"yesterday"="Yesterday";
+"2daysago"="The day before yesterday";
+"3daysago"="Three days ago";
+"4daysago"="Four days ago";
+"5daysago"="Five days ago";
+"6daysago"="Six days ago";
+"7daysago"="Last week";
+"1mago"="A month ago";
+"llago"="Long ago";
+//
+"D"="Day";//days
+"H"="Hou";//Hours
+"m"="Min";//Minutes
+"s"="Sec";//second
+"ago"=" ago";
+//
+"noname"="Unnamed";
