@@ -184,7 +184,7 @@
                 break;
             }
             case 1:
-                [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://www.cosiw.cn/"]];
+                [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/gitcsw/paylog"]];
                 break;
             default:
                 break;

@@ -99,7 +99,7 @@
         NSLog(@"路径%@",plistPath);
     }
     //
-    //NSMutableArray *tags = [NSMutableArray arrayWithArray:@[@"早饭", @"午饭", @"晚饭", @"路费", @"外卖", @"商店",@"东和食堂", @"西和食堂", @"校内听松食堂", @"东和生活区", @"西和生活区", @"校内", @"科院小店"]];
+    //NSMutableArray *tags = [NSMutableArray arrayWithArray:@[@"早饭", @"午饭", @"晚饭", @"路费", @"外卖", @"商店", @"校内", @"xx小店"]];
     //[Whole settp2:tags];//暂时预留，以后存在本地磁盘
     //
     if(![fileManager fileExistsAtPath:tagPath])
