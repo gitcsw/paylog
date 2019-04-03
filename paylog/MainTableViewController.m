@@ -78,7 +78,7 @@
             NSLocalizedString(@"apppay", @""),
             NSLocalizedString(@"cash", @""),
             NSLocalizedString(@"others", @"")]];
-        //NSMutableArray *defaulttags = [NSMutableArray arrayWithArray:@[@"支付宝", @"现金", @"校园卡", @"财付通", @"银行卡", @"杭州通",@"宁波公交卡", @"其他"]];
+        //NSMutableArray *defaulttags = [NSMutableArray arrayWithArray:@[@"支付宝", @"现金", @"校园卡", @"财付通", @"银行卡", @"xx地铁卡",@"xx公交卡", @"其他"]];
         NSMutableArray *usersArray = [[NSMutableArray alloc ] init];
         for(int i = 0;i<defaulttags.count;i++)
         {
