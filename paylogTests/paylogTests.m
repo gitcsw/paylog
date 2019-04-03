@@ -2,7 +2,7 @@
 //  paylogTests.m
 //  paylogTests
 //
-//  Created by Cooking singular wings on 2017/7/6.
+//  Created by GitCsw on 2017/7/6.
 //  Copyright © 2017年 Csw. All rights reserved.
 //
 

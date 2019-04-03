@@ -2,7 +2,7 @@
 //  EditViewController.h
 //  paylog
 //
-//  Created by Cooking singular wings on 2017/8/14.
+//  Created by GitCsw on 2017/8/14.
 //  Copyright © 2017年 Csw. All rights reserved.
 //
 

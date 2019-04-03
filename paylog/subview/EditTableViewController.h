@@ -2,7 +2,7 @@
 //  EditTableViewController.h
 //  paylog
 //
-//  Created by Cooking singular wings on 2017/7/19.
+//  Created by GitCsw on 2017/7/19.
 //  Copyright © 2017年 Csw. All rights reserved.
 //
 

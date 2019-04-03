@@ -2,7 +2,7 @@
 //  TLTagsControl.h
 //  paylog
 //
-//  Created by Cooking singular wings on 2017/7/17.
+//  Created by GitCsw on 2017/7/17.
 //  Copyright © 2017年 Csw. All rights reserved.
 //
 
