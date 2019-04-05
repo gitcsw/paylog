@@ -10,7 +10,7 @@ iOS开发，支记宝(账单记录)，传统oc代码
 
 ### 0x01 截图
 
-![Image text](https://raw.githubusercontent.com/gitcsw/paylog/markpic/01.png)
-![Image text](https://raw.githubusercontent.com/gitcsw/paylog/markpic/02.png)
-![Image text](https://raw.githubusercontent.com/gitcsw/paylog/markpic/03.png)
-![Image text](https://raw.githubusercontent.com/gitcsw/paylog/markpic/04.png)
+![Image text](markpic/01.png)
+![Image text](markpic/02.png)
+![Image text](markpic/03.png)
+![Image text](markpic/04.png)
